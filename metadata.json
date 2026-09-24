@@ -1,0 +1,6 @@
+{
+  "name": "FloraPulse",
+  "description": "Real-time telemetry dashboard and smart irrigation monitor with live charts, sensor gauges, and Bluetooth connectivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

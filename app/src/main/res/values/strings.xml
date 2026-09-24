@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FloraPulse</string>
+    <string name="tagline">Smart Automated Irrigation &amp; Telemetry</string>
+    <string name="dashboard_tab">Dashboard</string>
+    <string name="analytics_tab">Real-time Graphs</string>
+    <string name="history_tab">Logs &amp; History</string>
+    <string name="settings_tab">Device &amp; Alert Config</string>
+
+    <string name="temp_label">Ambient Temperature</string>
+    <string name="humidity_label">Air Humidity</string>
+    <string name="soil_label">Soil Moisture</string>
+    <string name="pump_label">Water Pump State</string>
+
+    <string name="unit_celsius">°C</string>
+    <string name="unit_percent">%</string>
+    <string name="unit_analog">units</string>
+
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_simulated">Live Simulation</string>
+
+    <string name="pump_watering">WATERING</string>
+    <string name="pump_idle">IDLE</string>
+
+    <string name="dry_threshold_label">Dry Soil Threshold</string>
+    <string name="high_temp_alert_label">High Temp Warning</string>
+    <string name="raw_packet_label">Incoming Packet Stream</string>
+    <string name="clear_history">Clear Log</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="bluetooth_select_device">Select HC-05 Device</string>
+    <string name="bluetooth_paired_devices">Paired Bluetooth Devices</string>
+    <string name="bluetooth_permission_required">Bluetooth permission is needed to connect to the HC-05 module.</string>
+</resources>
